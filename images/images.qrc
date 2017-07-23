@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>deepin-system-monitor.svg</file>
+        <file>backup.png</file>
+        <file>flyos-package-manager.png</file>
+        <file>flyos-snapper-manager.png</file>
+        <file>environment.png</file>
+    </qresource>
+</RCC>
