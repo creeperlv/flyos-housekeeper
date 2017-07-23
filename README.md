@@ -10,6 +10,7 @@ FlyOS管家
 
 * qt5-base
 * deepin-tool-kit
+* deepin-system-monitor
 
 ## Installation (安装)
 
